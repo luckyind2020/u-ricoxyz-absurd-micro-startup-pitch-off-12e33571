@@ -1,0 +1,1 @@
+TabRent: an AI that charges your agent's 47 idle browser tabs rent for the RAM they squat on, evicts the freeloaders, and pays you back in reclaimed focus.
